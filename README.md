@@ -1,6 +1,6 @@
 # Zoom_Subscription_dashboard
 
-![Dashboard Preview](https://user-images.githubusercontent.com/Zoom_dashboard.png)
+![Dashboard Preview](zoom_dashboard.png)
 
 ## __North Star Metrics and Dimensions__
 - Sales: Total subscription sales from pro, business, and enterprise plans
